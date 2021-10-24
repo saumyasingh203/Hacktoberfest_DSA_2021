@@ -1,5 +1,5 @@
-// Sieve of Eratosthenes is an algorithm for finding all the prime numbers in a segment [1;n] using O(nloglogn) operations.
-// C++ program to print all primes smaller than or equal to n using Sieve of Eratosthenes
+// Given a matrix and a target, return the number of non-empty submatrices that sum to target
+// Program in C++
 
 #include <iostream>
 #include <vector>
